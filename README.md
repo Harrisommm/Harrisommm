@@ -1,5 +1,7 @@
 ### Hi there ✌ 🫤
-Harrison Kim AKA 
+Harrison Kim 
+
+AKA 
 
 Wootak Kim
 
