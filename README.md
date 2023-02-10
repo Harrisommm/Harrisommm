@@ -5,7 +5,7 @@ AKA
 
 Wootak Kim  
 
-<a href="https://instagram.com/harrisommm?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/@harrisommm-배경색?style=#E4405F&logo=#E4405F&logoColor=로고색상"/></a>
+<a href="https://instagram.com/harrisommm?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/@harrisommm-8a3ab9?style=flat&logo=appveyor&logo=#E4405F&logoColor=8a3ab9"/></a>
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harrisommm&show_icons=true&theme=radical)
 <!--
