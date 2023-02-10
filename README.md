@@ -4,7 +4,7 @@ Harrison Kim
 AKA  
 
 Wootak Kim
-<a href="https://instagram.com/harrisommm?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=#E4405F&logo=로고&logoColor=로고색상"/></a>
+<a href="https://instagram.com/harrisommm?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/@harrisommm-배경색?style=#E4405F&logo=로고&logoColor=로고색상"/></a>
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harrisommm&show_icons=true&theme=radical)
 <!--
