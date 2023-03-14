@@ -11,7 +11,7 @@ Wootak Kim
 <a href="https://instagram.com/harrisommm?igshid=YmMyMTA2M2Y="><img src="https://img.shields.io/badge/Instagram-8a3ab9?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/harrisommm?igshid=YmMyMTA2M2Y="/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harrisommm&show_icons=true&theme=github_dark)
-![Leetcode Stats](https://leetcard.jacoblin.cool/Harrison?theme=dark)  
+![Leetcode Stats](https://leetcard.jacoblin.cool/Harrisommm?theme=dark)  
 
 
 
