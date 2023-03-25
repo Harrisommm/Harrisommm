@@ -3,7 +3,7 @@ Harrison Kim
 
 AKA 
 
-Wootak Kim   
+Wootak Kim 
   
   
 <img src="https://img.shields.io/badge/Wootak95@gmail.com-F05138?style=flat-square&logo=Gmail&logoColor=white"/>
