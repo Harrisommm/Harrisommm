@@ -4,19 +4,20 @@
 Software Developer, Data Engineer
 
 ## EXPERIENCE
-### Y Combinator, San Francisco — Software engineer
+> ### Y Combinator, San Francisco — Software engineer
 September 2015 - PRESENT
 Worked as a part of a maintenance team in Y Combinator
 
-### Ubiquitous Inc, San Francisco — Professional interpreter
+> ### Ubiquitous Inc, San Francisco — Professional interpreter
 March 2014 - July 20X15
 
 ## EDUCATION
-### Kaist Global Institution for Talented education, South Korea
+> ### Kaist Global Institution for Talented education, South Korea
 March 2010 - February 2011
 
-### University of Calfornia — Computer Science& Informatics BS
+> ### University of Calfornia — Computer Science& Informatics BS
 
+--------
 
   
 <img src="https://img.shields.io/badge/Wootak95@gmail.com-F05138?style=flat-square&logo=Gmail&logoColor=white"/>
