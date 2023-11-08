@@ -1,10 +1,23 @@
 ### Hi there ✌ 🫤
-Harrison Kim 
+# Harrison Wootak Kim 
 
-AKA  
+Software Developer, Data Engineer
 
-Wootak Kim 
-  
+## EXPERIENCE
+### Y Combinator, San Francisco — Software engineer
+September 2015 - PRESENT
+Worked as a part of a maintenance team in Y Combinator
+
+### Ubiquitous Inc, San Francisco — Professional interpreter
+March 2014 - July 20X15
+
+## EDUCATION
+### Kaist Global Institution for Talented education, South Korea
+March 2010 - February 2011
+
+### University of Calfornia — Computer Science& Informatics BS
+
+
   
 <img src="https://img.shields.io/badge/Wootak95@gmail.com-F05138?style=flat-square&logo=Gmail&logoColor=white"/>
 <a href="https://www.linkedin.com/in/wootak-kim-9bb981119/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wootak-kim-9bb981119/"/></a>
