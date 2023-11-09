@@ -12,7 +12,7 @@ Worked as a part of a maintenance team in Y Combinator
 March 2014 - July 20X15
 
 ## EDUCATION
-> ### Kaist Global Institution for Talented education, South Korea
+> ### Kaist Global Center for Gifted Education, South Korea
 March 2010 - February 2011
 
 > ### University of Calfornia — Computer Science& Informatics BS
