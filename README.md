@@ -9,7 +9,7 @@ Software Developer, Data Engineer
 March 2019 - August 2019
 
 > ### Y Combinator, San Francisco — Software engineer
-September 2015 - April 2017
+September 2015 - April 2017   
 Worked as a part of a maintenance team in Y Combinator
 
 > ### Ubiquitous Inc, San Francisco — Professional interpreter
