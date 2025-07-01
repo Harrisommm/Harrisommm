@@ -1,5 +1,5 @@
 ### Hi there ✌ 🫤
-# Harrison Wootak Kim 
+# Harrison W Kim 
 
 Software Developer, Data Engineer
 
