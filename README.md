@@ -3,7 +3,7 @@
 
 Software Developer, Data Engineer
 
-//## EXPERIENCE
+<!--## EXPERIENCE
 
 > ### Matches Fashion, London — Data engineer
 March 2019 - August 2019
@@ -15,7 +15,7 @@ Worked as a part of a maintenance team in Y Combinator
 > ### Ubiquitous Inc, San Francisco — Professional interpreter
 March 2014 - July 2015
 
-//
+-->
 
 ## EDUCATION
 > ### Kaist Global Center for Gifted Education, South Korea
