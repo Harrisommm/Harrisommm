@@ -10,12 +10,11 @@ March 2019 - August 2019
 
 > ### Y Combinator, San Francisco — Software engineer
 September 2015 - April 2017   
-Worked as a part of a maintenance team in Y Combinator
+Maintenance team at Y Combinator
 
-> ### Ubiquitous Inc, San Francisco — Professional interpreter
+> ### Uq Inc, San Francisco — Professional interpreter
 March 2014 - July 2015
 
--->
 
 ## EDUCATION
 > ### Kaist Global Center for Gifted Education, South Korea
@@ -35,7 +34,6 @@ March 2010 - February 2011
 
 
 
-<!--
 **Harrisommm/Harrisommm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
