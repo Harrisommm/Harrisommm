@@ -21,7 +21,7 @@ March 2014 - July 2015
 > ### Kaist Global Center for Gifted Education, South Korea
 March 2010 - February 2011
 
-> ### University of Calfornia — Computer Science & Informatics. BS.
+> ### University of California — Computer Science & Informatics. BS.
 
 --------
 
