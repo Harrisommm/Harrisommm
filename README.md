@@ -18,7 +18,7 @@ Combining hands-on engineering experience with a strong foundation in computer s
 
 - **Y Combinator, San Francisco — Software Engineer**  
   *September 2015 – April 2017*  
-  - Contributed to maintenance and core infrastructure at YC  
+  - Contributed to maintenance and infrastructure for start ups
 
 - **Uq Inc, San Francisco — Professional Interpreter**  
   *March 2014 – July 2015*  
