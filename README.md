@@ -1,39 +1,47 @@
 ### Hi there ✌ 🫤
-# Harrison w Kim  
+# Harrison W. Kim  
 
-Software Developer, Data Engineer
+**Software Developer | Data Engineer**
 
-## EXPERIENCE
+Passionate about building scalable software systems and data-driven products.  
+Combining hands-on engineering experience with a strong foundation in computer science, I enjoy solving complex problems and turning ideas into impactful solutions.
 
-> ### MicroSoft, Washington — MicroSoft Teams
-March 2025 --
+---
 
-> ### Matches Fashion, London — Data engineer
-March 2019 - August 2019
+## 💼 Experience
 
-> ### Y Combinator, San Francisco — Software engineer
-September 2015 - April 2017   
-Maintenance team at Y Combinator
+- **Microsoft, Washington — Software Developer (Microsoft Teams)**  
+  *March 2025 – Present*
 
-> ### Uq Inc, San Francisco — Professional interpreter
-March 2014 - July 2015
+- **Matches Fashion, London — Data Engineer**  
+  *March 2019 – August 2019*  
 
+- **Y Combinator, San Francisco — Software Engineer**  
+  *September 2015 – April 2017*  
+  - Contributed to maintenance and core infrastructure at YC  
 
-## EDUCATION
-> ### Kaist Global Center for Gifted Education, South Korea
-March 2010 - February 2011
+- **Uq Inc, San Francisco — Professional Interpreter**  
+  *March 2014 – July 2015*  
 
-> ### University of California — Computer Science & Informatics. BS.
+---
 
---------
+## 🎓 Education
 
-  
-<img src="https://img.shields.io/badge/Wootak95@gmail.com-F05138?style=flat-square&logo=Gmail&logoColor=white"/>
-<a href="https://www.linkedin.com/in/wootak-kim-9bb981119/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wootak-kim-9bb981119/"/></a>
-<a href="https://instagram.com/harrisommm?igshid=YmMyMTA2M2Y="><img src="https://img.shields.io/badge/Instagram-8a3ab9?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/harrisommm?igshid=YmMyMTA2M2Y="/></a>
+- **University of California** — *B.S. in Computer Science & Informatics*  
+- **KAIST Global Center for Gifted Education, South Korea**  
+  *March 2010 – February 2011*  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harrisommm&show_icons=true&theme=github_dark)
+---
+
+## 📫 Let’s Connect  
+
+<a href="mailto:Wootak95@gmail.com"><img src="https://img.shields.io/badge/Wootak95@gmail.com-F05138?style=flat-square&logo=Gmail&logoColor=white"/></a>  
+<a href="https://www.linkedin.com/in/wootak-kim-9bb981119/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=Linkedin&logoColor=white"/></a>  
+
+---
+
+## 📊 GitHub & Coding Stats  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Harrisommm&show_icons=true&theme=github_dark)  
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Harrisommm?theme=dark)  
-
-
 
