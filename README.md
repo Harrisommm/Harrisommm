@@ -41,7 +41,8 @@ Combining hands-on engineering experience with a strong foundation in computer s
 ---
 
 ## 📊
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Harrisommm&show_icons=true&theme=github_dark)  
-![Leetcode Stats](https://leetcard.jacoblin.cool/Harrisommm?theme=dark)  
+<div style="display: flex; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harrisommm&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://leetcard.jacoblin.cool/Harrisommm?theme=dark" alt="LeetCode Stats" />
+</div>
 
