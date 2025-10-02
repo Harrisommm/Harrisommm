@@ -40,7 +40,7 @@ Combining hands-on engineering experience with a strong foundation in computer s
 
 ---
 
-## 📊 GitHub & Coding Stats  
+## 📊
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Harrisommm&show_icons=true&theme=github_dark)  
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Harrisommm?theme=dark)  
