@@ -39,6 +39,8 @@ Combining hands-on engineering experience with a strong foundation in computer s
 <a href="https://www.linkedin.com/in/wootak-kim-9bb981119/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=Linkedin&logoColor=white"/></a>  
 
 
-| <img src="https://github-readme-stats.vercel.app/api?username=Harrisommm&show_icons=true&theme=github_dark" height="180px"/> | <img src="https://leetcard.jacoblin.cool/Harrisommm?theme=dark" height="180px"/> |
-|---|---|
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harrisommm&show_icons=true&theme=github_dark" height="180px"/>
+  <img src="https://leetcard.jacoblin.cool/Harrisommm?theme=dark" height="180px"/>
+</p>
 
