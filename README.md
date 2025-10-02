@@ -16,9 +16,9 @@ Combining hands-on engineering experience with a strong foundation in computer s
 - **Matches Fashion, London — Data Engineer**  
   *March 2019 – August 2019*  
 
-- **Y Combinator, San Francisco — Software Engineer**  
+- **Y Combinator, San Francisco — Software Engineering Intern**  
   *September 2015 – April 2017*  
-  - Contributed to maintenance and infrastructure
+  - Supported infrastructure and internal tooling maintenance
 
 - **Uq Inc, San Francisco — Professional Interpreter**  
   *March 2014 – July 2015*  
