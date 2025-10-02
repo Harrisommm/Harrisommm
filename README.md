@@ -28,7 +28,7 @@ Combining hands-on engineering experience with a strong foundation in computer s
 ## 🎓 Education
 
 - **University of California** — *B.S. in Computer Science & Informatics*
-- 
+  
 - **KAIST Global Center for Gifted Education, South Korea**  
   *March 2010 – February 2011*  
 
