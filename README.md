@@ -1,6 +1,6 @@
 ### Hi there ✌ 🫤
 # Harrison W. Kim  
-
+<!--
 **Software Developer | Data Engineer**
 
 Passionate about building scalable software systems and data-driven products.  
@@ -41,3 +41,4 @@ Combining hands-on engineering experience with a strong foundation in computer s
 | <img src="https://github-readme-stats.vercel.app/api?username=Harrisommm&show_icons=true&theme=github_dark" height="180px"/> | <img src="https://leetcard.jacoblin.cool/Harrisommm?theme=dark" height="180px"/> |
 |---|---|
 
+-->
